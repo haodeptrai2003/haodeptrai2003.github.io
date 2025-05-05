@@ -21,7 +21,6 @@ Mình sẽ chia sẻ những nội dung xoay quanh:
   - Linux cơ bản
   - Web security: XSS, SQLi, IDOR,...
   - CTF và write-up các thử thách mình đã giải
-- Một chút chia sẻ về **cuộc sống sinh viên IT**
 
 ---
 
